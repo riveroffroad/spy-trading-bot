@@ -1,17 +1,13 @@
-<<<<<<< HEAD
 streamlit
-tda-api
-textblob
-beautifulsoup4
 pandas
+numpy
+matplotlib
 requests
-python-dotenv
-=======
-streamlit
-tda-api
-textblob
+yfinance
+ta
+scikit-learn
 beautifulsoup4
-pandas
-requests
+textblob
+tda-api
 python-dotenv
->>>>>>> bcbd69d432c1881b038cd8a04cb919f37fb039a9
+lxml
