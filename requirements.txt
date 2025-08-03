@@ -1,0 +1,7 @@
+streamlit
+tda-api
+textblob
+beautifulsoup4
+pandas
+requests
+python-dotenv
