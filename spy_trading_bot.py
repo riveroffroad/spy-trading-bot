@@ -21,4 +21,5 @@ def load_token():
 # ======================
 def calculate_indicators(df):
     df['EMA12'] = df['Close'].ewm(span=12, adjust=False).mean()
-    df['EMA26'] = df['Close'].ewm(span=26, adjus
+    df['EMA26'] = df['Close'].ewm(span=26, adjust=False).mean()
+
