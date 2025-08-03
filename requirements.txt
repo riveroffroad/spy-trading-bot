@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 tda-api
 textblob
@@ -5,3 +6,12 @@ beautifulsoup4
 pandas
 requests
 python-dotenv
+=======
+streamlit
+tda-api
+textblob
+beautifulsoup4
+pandas
+requests
+python-dotenv
+>>>>>>> bcbd69d432c1881b038cd8a04cb919f37fb039a9
